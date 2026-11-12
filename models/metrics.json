@@ -1,0 +1,42 @@
+{
+  "Baseline_LogisticRegression": {
+    "roc_auc": 0.8594,
+    "gini": 0.7188,
+    "pr_auc": 0.3367,
+    "brier_score": 0.1464,
+    "precision": 0.2241,
+    "recall": 0.7362,
+    "f1": 0.3437,
+    "confusion_matrix": {
+      "tn": 22886,
+      "fp": 5109,
+      "fn": 529,
+      "tp": 1476
+    }
+  },
+  "LightGBM": {
+    "roc_auc": 0.8698,
+    "gini": 0.7396,
+    "pr_auc": 0.407,
+    "brier_score": 0.1382,
+    "precision": 0.2222,
+    "recall": 0.7726,
+    "f1": 0.3452,
+    "confusion_matrix": {
+      "tn": 22574,
+      "fp": 5421,
+      "fn": 456,
+      "tp": 1549
+    }
+  },
+  "Threshold_Optimization": {
+    "threshold": 0.6305,
+    "total_cost": 8463.0,
+    "tn": 24868,
+    "fp": 3127,
+    "fn": 667,
+    "tp": 1338,
+    "cost_fp": 1.0,
+    "cost_fn": 8.0
+  }
+}
