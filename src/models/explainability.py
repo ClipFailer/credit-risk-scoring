@@ -21,9 +21,13 @@ FEATURE_RU_NAMES = {
     "MonthlyIncome": "Уровень ежемесячного дохода",
     "NumberOfOpenCreditLinesAndLoans": "Количество открытых кредитов и кредитных карт",
     "NumberRealEstateLoansOrLines": "Количество ипотечных кредитов",
+    "NumberOfDependents": "Количество иждивенцев в семье",
     "IncomePerPerson": "Доход на одного члена семьи",
     "UtilizationOverLimit": "Превышение установленного кредитного лимита",
-    "Missing_MonthlyIncome": "Отсутствие подтвержденного дохода в анкете"
+    "HasAnyLate": "Наличие фактов просрочки платежей",
+    "HasLate90": "Наличие критических просрочек 90+ дней",
+    "Missing_MonthlyIncome": "Отсутствие подтвержденного дохода в анкете",
+    "Missing_NumberOfDependents": "Отсутствие информации об иждивенцах в анкете"
 }
 
 
