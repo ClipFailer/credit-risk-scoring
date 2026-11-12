@@ -9,6 +9,7 @@ pyarrow>=14.0.0
 # Advanced Models & Optimization
 lightgbm>=4.0.0
 optuna>=3.0.0
+shap>=0.42.0
 
 # Serving & Validation
 fastapi>=0.100.0
