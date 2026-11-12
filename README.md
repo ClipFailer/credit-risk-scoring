@@ -90,7 +90,7 @@ Production-ready ML-сервис для оценки кредитного рис
 
 ```bash
 # Клонирование репозитория
-git clone https://github.com/username/credit-risk-scoring.git
+git clone https://github.com/ClipFailer/credit-risk-scoring.git
 cd credit-risk-scoring
 
 # Установка зависимостей
